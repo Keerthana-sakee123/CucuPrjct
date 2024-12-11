@@ -14,7 +14,7 @@ public class DataTbl1 {
 List<Integer> a=new LinkedList<Integer>();
 a.add(10);
 a.add(20);
-a.add(30);
+a.add(145);
 //return type of get(index) will be Integer not int
 Integer integer = a.get(0);
 List<Integer> b=new LinkedList<Integer>();
